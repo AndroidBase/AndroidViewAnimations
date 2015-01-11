@@ -9,6 +9,9 @@ import android.widget.TextView;
 
 import com.daimajia.androidanimations.library.Techniques;
 
+/**
+ * 适配器
+ */
 public class EffectAdapter extends BaseAdapter {
 
     private Context mContext;
